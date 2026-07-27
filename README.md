@@ -214,8 +214,6 @@ This project is licensed under the MIT License.
 
 **Saksham Semwal**
 
-LinkedIn: *(Add your LinkedIn URL)*
-
 GitHub: https://github.com/sakshamsemwal10
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
