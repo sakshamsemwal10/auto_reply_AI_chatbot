@@ -1,6 +1,6 @@
-# 🤖 AI WhatsApp Auto-Reply Bot
+# 🤖 AI Auto-Reply Bot
 
-An AI-powered WhatsApp auto-reply bot built with **Python**, **Google Gemini**, and **PyAutoGUI**. The bot monitors a WhatsApp chat, detects new incoming messages, generates context-aware responses using Gemini, and automatically sends the reply.
+An AI-powered auto-reply bot built with **Python**, **Google Gemini**, and **PyAutoGUI**. The bot monitors a chat, detects new incoming messages, generates context-aware responses using Gemini, and automatically sends the reply.
 
 > **Disclaimer:** This project is intended for educational and learning purposes only. Automating messaging applications may violate the platform's Terms of Service. Use responsibly and at your own risk.
 
